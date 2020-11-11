@@ -6,7 +6,7 @@ This repository contains the early draft of a book documenting the internal aspe
 We are writing Unit Tests and from this knowledge we run sprint sessions and document. 
 
 To avoid misunderstanding we acknoledge that the original design of the Pharo Virtual Machine (Cog+Spur)
-is the work on E. Miranda and with some parts done by C. Béra. Our intention is to document it so that everybody
+is the work of E. Miranda and with some parts done by C. Béra. Our intention is to document it so that everybody
 can understand it. 
 
 The errors in this document are ours. Of course, we would have preferred to read a good documentation instead
